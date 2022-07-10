@@ -2,9 +2,8 @@ package com.tech.order.common;
 
 import com.tech.order.entity.Order;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
+
 
 @Data
 public class TransactionResponse {
